@@ -1,4 +1,4 @@
-![Screenshot_1734629025](https://github.com/user-attachments/assets/e6714c83-2d06-4d1d-b975-b927d00989b8)# MovieBar
+# MovieBar
 
 MovieBar is a modern Flutter application that allows users to discover, search, and track movies, TV shows and actors using The Movie Database (TMDB) API. The app provides a seamless user experience for exploring media content and managing personal watchlists.
 
@@ -104,25 +104,26 @@ Key packages used in the project:
 ## Screenshots
 
 ### Home Page
-![Screenshot_1734629025](https://github.com/user-attachments/assets/b016974d-6948-4948-aa73-fe8a06be4de6)
-![Screenshot_1734629098](https://github.com/user-attachments/assets/48a93997-38a5-48a3-ac20-a3c053efd489)
+![Screenshot_1734629025](https://github.com/user-attachments/assets/6b0838d8-d629-41d2-82f6-5757d0fe9040)
+![Screenshot_1734629098](https://github.com/user-attachments/assets/e67d25f5-f6bb-42d4-a9a0-68b0d336dcfc)
 
 ### Categories Page
-![Screenshot_1734629050](https://github.com/user-attachments/assets/41e03b5f-3622-41b4-921f-18d7ac6075c8)
+![Screenshot_1734629050](https://github.com/user-attachments/assets/595adee4-79d3-416a-932b-0fab346401fd)
 
 ### Search Page
-![Screenshot_1734629175](https://github.com/user-attachments/assets/ff7edb92-cf9f-41d5-83c2-f0c5488865ae)
+![Screenshot_1734629175](https://github.com/user-attachments/assets/11097cf0-6200-4b35-9a21-79b5ff4cb5f6)
 
 ### Movie Detail Page
-![Screenshot_1734629206](https://github.com/user-attachments/assets/0aa73b48-f2cf-4dd2-96e8-6ed1700ffc05)
+![Screenshot_1734629206](https://github.com/user-attachments/assets/c1e413c4-c135-4b5b-abf9-4fe421e70f8b)
 
 ### Tv Show Detail Page
-![Screenshot_1734629225](https://github.com/user-attachments/assets/cb68f2d2-3f58-40e5-bbf5-ed08f6f7c523)
-![Screenshot_1734630160](https://github.com/user-attachments/assets/1d1bef75-41eb-45e9-8705-35fbafe14d0a)
+![Screenshot_1734629225](https://github.com/user-attachments/assets/190814e5-cdc3-47ae-be15-bf95ecd17414)
+![Screenshot_1734630160](https://github.com/user-attachments/assets/f876764f-e7ae-4737-b2bf-d1d989ef9e32)
 
 ### Person Detail Page
-![Screenshot_1734629281](https://github.com/user-attachments/assets/6f4f72e0-bef1-467a-8233-f924908e4b77)
-![Screenshot_1734630094](https://github.com/user-attachments/assets/fcf033a1-40cf-41ce-8e22-02ff16813f40)
+![Screenshot_1734629281](https://github.com/user-attachments/assets/77e9f6fd-f582-4907-8666-09983d091b22)
+![Screenshot_1734630094](https://github.com/user-attachments/assets/7f8e9f5c-5c8e-40ed-ab07-8536de07c733)
 
 ### Profile View
-![Screenshot_1734629188](https://github.com/user-attachments/assets/57d1d17a-0c55-418f-8b2b-0b49c8f79231)
+![Screenshot_1734629188](https://github.com/user-attachments/assets/e48b5a60-14c5-4f8f-bda9-75cb2558971a)
+
